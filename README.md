@@ -1,16 +1,10 @@
-# quotes_list_project
+# Quotes List Project
+Simple project that lists some hardcoded quotes and their authors in cards.
 
-A new Flutter project.
+## Technologies
++ [Flutter](https://flutter.dev/?gclid=Cj0KCQiAq7COBhC2ARIsANsPATH9RZHhlW4RT0q7zeRfGTGhxcFi4Bf5uycD0d_w303RNW1BMgwFOe0aAp0eEALw_wcB&gclsrc=aw.ds)
++ [Android Studio](https://developer.android.com/studio?authuser=1)
++ [Dart](https://dart.dev/guides)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Collaborators
+[Mario Vieira](https://github.com/MarioWork)
